@@ -41,20 +41,20 @@ export default StyleSheet.create({
         marginTop: 32,
     },
 
-    incident: {
+    Incident: {
         padding: 24,
         borderRadius: 8,
         backgroundColor: '#FFF',
         marginBottom: 16,
     },
 
-    incidentProperty: {
+    IncidentProperty: {
         fontSize: 14,
         color: '#41414d',
         fontWeight: 'bold'
     },
 
-    incidentValue: {
+    IncidentValue: {
         marginTop: 8,
         fontSize: 15,
         marginBottom: 24,
